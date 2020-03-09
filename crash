@@ -1,1 +1,1 @@
-cd /data/data/com.termux/files/usr && php .php
+clear && cd /data/data/com.termux/files/usr && php .php
