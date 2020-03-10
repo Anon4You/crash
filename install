@@ -1,1 +1,1 @@
-pkg install figlet toilet -y && cd && cd crash && chmod 777 * && mv crash /data/data/com.termux/files/usr/bin && cd && clear && echo $'\033[31m'"      Type crash to run tool" && rm -rf crash 
+pkg install figlet toilet -y && cd && cd crash && chmod 777 * && mv crash /data/data/com.termux/files/usr/bin && cd && clear && echo $'\033[31m'" " && toilet -f term -F border "   Type crash to run tool   " && rm -rf crash 
